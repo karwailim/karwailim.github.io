@@ -92,8 +92,8 @@ a {
 
 .header {
   height: 400px;
-  background-image: url("http://uploads.webflow.com/57ce7eced528a1235f572ea6/57cebaa2a0d241d66ddf9928_wood.jpg"), -webkit-linear-gradient(270deg, rgba(37, 196, 133, .15), rgba(37, 196, 133, .15));
-  background-image: url("http://uploads.webflow.com/57ce7eced528a1235f572ea6/57cebaa2a0d241d66ddf9928_wood.jpg"), linear-gradient(180deg, rgba(37, 196, 133, .15), rgba(37, 196, 133, .15));
+  background-image: url("../wood.jpg"), -webkit-linear-gradient(270deg, rgba(37, 196, 133, .15), rgba(37, 196, 133, .15));
+  background-image: url("../wood.jpg"), linear-gradient(180deg, rgba(37, 196, 133, .15), rgba(37, 196, 133, .15));
   background-position: 50% 100%, 0px 0px;
   background-size: cover, auto;
   background-repeat: no-repeat, repeat;
@@ -293,8 +293,8 @@ a {
 @media (max-width: 991px) {
   .header {
     height: 250px;
-    background-image: url("http://uploads.webflow.com/57ce7eced528a1235f572ea6/57cebaa2a0d241d66ddf9928_wood.jpg"), -webkit-linear-gradient(270deg, null, null);
-    background-image: url("http://uploads.webflow.com/57ce7eced528a1235f572ea6/57cebaa2a0d241d66ddf9928_wood.jpg"), linear-gradient(180deg, null, null);
+    background-image: url("../wood.jpg"), -webkit-linear-gradient(270deg, null, null);
+    background-image: url("../wood.jpg"), linear-gradient(180deg, null, null);
     background-position: 50% 100%, 0px 0px;
   }
   .section {
@@ -338,8 +338,8 @@ a {
 
 @media (max-width: 479px) {
   .header {
-    background-image: url("http://uploads.webflow.com/57ce7eced528a1235f572ea6/57cebaa2a0d241d66ddf9928_wood.jpg"), -webkit-linear-gradient(270deg, null, null);
-    background-image: url("http://uploads.webflow.com/57ce7eced528a1235f572ea6/57cebaa2a0d241d66ddf9928_wood.jpg"), linear-gradient(180deg, null, null);
+    background-image: url("../wood.jpg"), -webkit-linear-gradient(270deg, null, null);
+    background-image: url("../wood.jpg"), linear-gradient(180deg, null, null);
     background-position: 50% 100%, 0px 0px;
     background-size: auto, auto;
   }
