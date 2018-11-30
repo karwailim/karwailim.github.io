@@ -1,7 +1,0 @@
-Replace "%3A" with ":"
-Replace "%2F" with "/"
-Replace "&amp;sa=D[^"]*" with ""
-Replace "%3F" with "?"
-
-Replace "http[s]*://www.google.com/url\?q=" with ""
-Replace "https://www.comp.nus.edu.sg/~limkw/" with "./"

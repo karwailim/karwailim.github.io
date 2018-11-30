@@ -1,0 +1,9 @@
+Replace "&amp;sa=D[^"]*" with ""
+
+Replace "%3A" with ":"
+Replace "%2F" with "/"
+Replace "%3F" with "?"
+Replace "%3D” with “=“
+
+Replace "http[s]*://www.google.com/url?q=" with ""
+Replace "http[s]*://karwailim.github.io/" with "./"
