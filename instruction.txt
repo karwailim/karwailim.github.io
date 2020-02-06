@@ -1,3 +1,7 @@
+1. Save html complete as Home.html
+
+2. Execute bash ./cleanup.sh:
+
 Replace "&amp;sa=D[^"]*" with ""
 
 Replace "%3A" with ":"
@@ -7,3 +11,7 @@ Replace "%3D” with “=“
 
 Replace "http[s]*://www.google.com/url?q=" with ""
 Replace "http[s]*://karwailim.github.io/" with "./"
+
+
+3. Remove code with 
+"<script type="text/javascript" nonce="BDfopFR5QVmQvFwZflHWsQ"> ... </script>"
