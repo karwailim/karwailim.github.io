@@ -30346,8 +30346,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-btn-3 {margin-right: 34px; margin-left: auto}
 .u-header .u-btn-4 {margin-bottom: 0; margin-left: 0} }
  .u-footer {background-image: none}
-.u-footer .u-sheet-1 {min-height: 51px}
-.u-footer .u-text-1 {margin-left: 0; margin-right: 0; margin-bottom: 17px; font-size: 0.75rem} 
+.u-footer .u-sheet-1 {min-height: 11px} 
 @media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px} }
 @media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px} }
 @media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 57px} }
